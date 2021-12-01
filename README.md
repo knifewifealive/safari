@@ -3,3 +3,5 @@ HTML, CSS, Jquery
 
 Фотогаллерея и поп-ап библиотека Magnific Pop-Up: https://dimsemenov.com/plugins/magnific-popup/
 Слайдер Slick-slider: https://kenwheeler.github.io/slick/
+
+https://knifewifealive.github.io/safari/
